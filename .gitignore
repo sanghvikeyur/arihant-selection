@@ -1,0 +1,12 @@
+# Node
+UI/node_modules/
+UI/dist/
+
+# .NET
+WebAPI/bin/
+WebAPI/obj/
+
+# OS files
+.DS_Store
+Thumbs.db
+/WebAPI/WebAPI/.vs/WebAPI/FileContentIndex
